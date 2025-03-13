@@ -53,3 +53,4 @@
 51. [Hướng dẫn triển khai phân loại hình ảnh trên Website miễn phí](https://aicandy.vn/huong-dan-trien-khai-phan-loai-hinh-anh-tren-website-mien-phi)
 52. [Kho dữ liệu dành cho học máy](https://aicandy.vn/kho-du-lieu-danh-cho-hoc-may)
 53. [Tổng hợp công cụ hỗ trợ phát triển AI, ML, DL](https://aicandy.vn/tong-hop-cong-cu-ho-tro-phat-trien-ai-ml-dl)
+54. [Máy tính lượng tử: Khi nào chúng ta sử dụng hàng ngày?](https://aicandy.vn/may-tinh-luong-tu-khi-nao-chung-ta-su-dung-hang-ngay/??zarsrc=31&utm_source=github&utm_medium=github&utm_campaign=github_xmailtq)
